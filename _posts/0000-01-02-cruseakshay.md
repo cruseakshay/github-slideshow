@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-github is great !
+![Java interface definition](./interface_def.png)
 Use the left arrow to go back!
